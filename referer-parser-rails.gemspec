@@ -2,11 +2,11 @@
 
 lib = File.expand_path('../lib', __FILE__)
 $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
-require 'referer-parser-rails/version'
+require 'referer-parser/version'
 
 Gem::Specification.new do |gem|
   gem.name          = "referer-parser-rails"
-  gem.version       = Referer::Parser::Rails::VERSION
+  gem.version       = RefererParser::Rails::VERSION
   gem.authors       = ["Alexey Solilin"]
   gem.email         = ["solilin@jetrockets.ru"]
   gem.summary       = %q{Referer-parser for Rails}

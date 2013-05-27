@@ -1,6 +1,6 @@
 # Referer::Parser::Rails
 
-TODO: Write a gem description
+Rails extension of gem [referer-parser for Rails](https://github.com/snowplow/referer-parser/blob/master/ruby/README.md)
 
 ## Installation
 
@@ -12,13 +12,10 @@ And then execute:
 
     $ bundle
 
-Or install it yourself as:
-
-    $ gem install referer-parser-rails
 
 ## Usage
 
-TODO: Write usage instructions here
+
 
 ## Contributing
 

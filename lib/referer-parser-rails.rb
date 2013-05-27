@@ -1,10 +1,5 @@
-require "referer-parser-rails/version"
-require 'referer-parser-rails/request'
+require 'referer-parser/request'
+require 'referer-parser/rails' if defined?(::Rails)
 
-module Referer
-  module Parser
-    module Rails
-      # just extending ActionDispatch:Request
-    end
-  end
+module RefererParser
 end
