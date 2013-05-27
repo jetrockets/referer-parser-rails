@@ -15,8 +15,6 @@ And then execute:
 
 ## Usage
 
-
-
 ## Contributing
 
 1. Fork it
