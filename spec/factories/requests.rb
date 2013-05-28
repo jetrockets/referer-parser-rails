@@ -1,5 +1,3 @@
-require 'faker'
-
 FactoryGirl.define do
   factory :request, :class => ActionDispatch::Request do |r|
     trait :without_referer do
