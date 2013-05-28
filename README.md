@@ -19,11 +19,11 @@ And then execute:
 Then you can use two methods for your ActionDispatch::Request object in application:
 
 ```ruby
-  # Get search term from referer and return it as string. If referer not present then returns nil.
-  request.search_term
+# Get search term from referer and return it as string. If referer not present then returns nil.
+request.search_term
 
-  # Get search term from referer and return it as string. If referer not present then will returns nil.
-  request.search_engine
+# Get search term from referer and return it as string. If referer not present then will returns nil.
+request.search_engine
 ```
 
 ## Why being userfull?
