@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/jetrockets/referer-parser-rails.png?branch=master)](https://travis-ci.org/jetrockets/referer-parser-rails)
+
 # Referer::Parser::Rails
 
 It is a [referer-parser](https://github.com/snowplow/referer-parser/blob/master/ruby/README.md)
